@@ -1,7 +1,7 @@
 #
 <p align="center">
 <img src="./client/Icon-72.png" />
-<h1 align="center">BiliDown</h1>
+<h1 align="center">OldSeek</h1>
 <h3 align="center">最低可以运行在 iOS 3.1.3 系统上的原生 DeepSeek 客户端<br>
 </p>
 
